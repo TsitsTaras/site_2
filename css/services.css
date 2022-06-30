@@ -1,0 +1,43 @@
+.s {
+  text-align: center;
+  margin-bottom: 70px;
+  font-size: 30px;
+}
+.f {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1170px;
+  margin: auto;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+.d {
+  color: rgb(160, 157, 157);
+  padding: 30px 20px;
+  border: solid 8px rgb(246, 244, 244);
+  width: 27%;
+  margin-bottom: 25px;
+}
+
+.y {
+  font-size: 24px;
+  color: black;
+  padding-left: 20px;
+  text-decoration: none;
+}
+.y:hover {
+  color: #01b3a7;
+  transition: 0.3s;
+}
+.c {
+  display: flex;
+  color: #01b3a7;
+  align-items: center;
+}
+.qq {
+  font-size: 35px;
+  min-width: 35px;
+}
+.cc {
+  padding-left: 54px;
+}

@@ -1,0 +1,631 @@
+@media only screen and (max-width: 1200px) {
+  .banner-header {
+    display: none;
+  }
+  .navbar-panel {
+    width: 95%;
+  }
+  .navbar-main {
+    width: 95%;
+  }
+
+  .img {
+    object-fit: cover;
+    width: 100px;
+    width: 100%;
+  }
+  .t {
+    font-size: 45px;
+  }
+  .zzzz {
+    width: 90%;
+  }
+  .wrapper {
+    width: 90%;
+  }
+  .www {
+    width: 95%;
+  }
+  .box-categories-title {
+    font-size: 20px;
+  }
+  .r {
+    width: 90%;
+  }
+  .tt {
+    font-size: 30px;
+  }
+  .g {
+    font-size: 15px;
+  }
+  .m {
+    font-size: 13px;
+  }
+  .s {
+    margin: 0 0 40px 0;
+  }
+  .f {
+    width: 90%;
+  }
+  .y {
+    font-size: 20px;
+    padding: 0;
+  }
+  .d {
+    width: 26%;
+  }
+  .qq {
+    padding-bottom: 10px;
+  }
+  .c {
+    flex-direction: column;
+    text-align: center;
+    font-size: 13px;
+  }
+  .cc {
+    text-align: center;
+    padding: 0;
+  }
+  .tours {
+    width: 90%;
+  }
+
+  .tours-description {
+    font-size: 15px;
+  }
+  .people-ul {
+    width: 90%;
+  }
+  .people-li-description {
+    padding: 40px 42px;
+  }
+  .gallery-title {
+    font-size: 30px;
+  }
+  .gallery-p {
+    font-size: 15px;
+  }
+  .gallery-description {
+    width: 90%;
+  }
+  .fff {
+    width: 90%;
+  }
+  .footer {
+    width: 90%;
+  }
+  .footer-contacts-ul,
+  .footer-news-ul,
+  .footer-links-ul,
+  .footer-button {
+    font-size: 12px;
+  }
+  .footer-info {
+    width: 90%;
+  }
+  .ccc,
+  .footer-info-policy {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .header-navbar-panel {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 20;
+    box-shadow: 0 2px 0 0 #f8f6f6;
+  }
+  .navbar-panel {
+    justify-content: left;
+  }
+  .header_burger {
+    display: flex;
+  }
+  .header_point {
+    display: flex;
+  }
+  .navbar-main-background {
+    position: fixed;
+    top: 62px;
+    left: -100%;
+    background-color: #ffffff;
+    width: 250px;
+    height: 100%;
+    transition: 0.5s;
+    overflow: auto;
+    padding: 0;
+    border-left: 1px solid rgb(211, 207, 207);
+  }
+  .navbar-main-background.active {
+    left: 0;
+  }
+  .navbar-main {
+    flex-direction: column-reverse;
+    padding-bottom: 50px;
+    width: 100%;
+  }
+  .navbar-main-menu {
+    flex-direction: column;
+    width: 100%;
+  }
+  .qqqq {
+    margin-bottom: 15px;
+    padding: 13px 0 13px 0;
+  }
+  .qqqq:hover {
+    background: #01b3a7;
+  }
+  .navbar-main-social-icon {
+    padding: 0;
+  }
+  .navbar-main-menu-link {
+    color: black;
+  }
+  .navbar-main-menu-link:hover {
+    border: none;
+    color: #ffffff;
+    background: none;
+    padding: 0 20px 0 20px;
+  }
+
+  .navbar-main-social {
+    display: flex;
+    border-bottom: 1px solid rgb(211, 207, 207);
+    padding: 0 0 20px 0;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .navbar-main-social-link {
+    color: black;
+    padding: 10px;
+  }
+
+  .navbar-panel-logo {
+    padding: 20px;
+    width: 200px;
+  }
+  .navbar-panel-contacts-button {
+    background: #ffffff;
+    width: 240px;
+    height: 200px;
+    position: fixed;
+    transition: 0.7s;
+    overflow: auto;
+    top: 62px;
+    right: -100%;
+  }
+  .navbar-panel-contacts-button.active {
+    right: 0;
+  }
+  .navbar-panel-contacts {
+    flex-direction: column;
+    margin: 0;
+    padding: 15px;
+  }
+  .navbar-panel-contacts-button {
+    display: flex;
+    flex-direction: column;
+  }
+  .button-navbar {
+    padding: 0;
+  }
+  .line {
+    display: none;
+  }
+
+  .time {
+    padding: 0 0 10px 0;
+  }
+  .icon {
+    padding: 0 10px 0 0;
+  }
+  .phone {
+    padding: 0 0 20px 0;
+  }
+
+  .zzzz {
+    width: 85%;
+  }
+
+  .wrapper {
+    width: 85%;
+  }
+  .www {
+    width: 90%;
+  }
+  .o {
+    transform: none;
+  }
+  .wrapper-background {
+    padding-top: 40px;
+  }
+  .u {
+    transform: translateY(-50px);
+  }
+  .box-categories-title {
+    font-size: 20px;
+  }
+  .r {
+    flex-direction: column;
+  }
+  .ddd {
+    width: 75%;
+    padding-bottom: 30px;
+  }
+  .x {
+    width: 85%;
+  }
+  .f {
+    width: 85%;
+  }
+  .y {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+  .cc {
+    padding-left: 54px;
+  }
+  .d {
+    width: 40%;
+  }
+  .c {
+    flex-direction: inherit;
+    text-align: left;
+  }
+  .cc {
+    text-align: left;
+  }
+  .tours {
+    width: 85%;
+  }
+  .people-ul {
+    width: 85%;
+    flex-wrap: wrap;
+  }
+  .people-li-description {
+    padding: 40px 75px;
+  }
+  .people-li {
+    width: 50%;
+  }
+  .gallery-button {
+    top: 260px;
+  }
+  .imagess,
+  .imagesss {
+    display: none;
+  }
+  .images,
+  .imagessss,
+  .imagesssss {
+    width: 23%;
+  }
+  .footer {
+    width: 85%;
+    flex-wrap: wrap;
+  }
+  .footer-contact {
+    max-width: 100%;
+  }
+
+  .footer-contacts-ul {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer-contacts-li {
+    width: 33%;
+    font-size: 15px;
+  }
+  .footer-news {
+    max-width: 40%;
+  }
+  .footer-news-link {
+    font-size: 15px;
+  }
+  .footer-links {
+    max-width: 60%;
+  }
+  .footer-links-ul {
+    padding: 0;
+    columns: 3;
+    grid-column-gap: 30px;
+    padding-bottom: 20px;
+  }
+  .footer-links-li {
+    font-size: 15px;
+  }
+  .footer-info {
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .zzzz {
+    width: 90%;
+  }
+  .yyy {
+    top: 8%;
+    font-size: 13px;
+  }
+  .t {
+    font-size: 35px;
+  }
+  .o {
+    flex-direction: column;
+    align-items: center;
+  }
+  .www {
+    width: 100%;
+    height: 100%;
+  }
+  .box-categories-title {
+    margin: 0;
+    transform: translateY(-50px);
+  }
+  .u {
+    transform: none;
+    padding-bottom: 40px;
+  }
+  .ddd {
+    width: 90%;
+    height: 100%;
+  }
+  .x {
+    text-align: center;
+  }
+  .l {
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: none;
+  }
+
+  .g {
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-top: 1px solid rgb(213, 209, 209);
+    border-bottom: 1px solid rgb(213, 209, 209);
+  }
+  .g:hover {
+    border-bottom: none;
+    border-top: 1px solid #01b3a7;
+    border-bottom: 1px solid #01b3a7;
+    padding: 9px;
+  }
+  .ll {
+    justify-content: center;
+  }
+
+  .d {
+    width: 37%;
+    justify-content: center;
+  }
+  .c {
+    flex-direction: column;
+    text-align: center;
+  }
+  .cc {
+    text-align: center;
+    padding: 0;
+  }
+  .y {
+    padding: 0;
+  }
+  .tours-main {
+    display: flex;
+    align-items: inherit;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    width: 92%;
+    margin: auto;
+  }
+  .tours {
+    flex-direction: column;
+    border: none;
+    width: 45%;
+    margin: 0;
+    padding: 0;
+  }
+  .tours-img {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 15px;
+  }
+  .tours-description {
+    width: 100%;
+  }
+
+  .pp {
+    font-size: 30px;
+  }
+  .people-ul {
+    width: 90%;
+  }
+
+  .people-li {
+    max-width: 47%;
+  }
+
+  .people-li-description {
+    padding: 40px 55px;
+  }
+  .gallery-title {
+    font-size: 25px;
+  }
+  .gallery-p {
+    top: 120px;
+    width: 80%;
+  }
+  .gallery-button {
+    top: 200px;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+  }
+
+  .footer {
+    width: 85%;
+    flex-wrap: wrap;
+  }
+  .footer-contact {
+    max-width: 48%;
+  }
+
+  .footer-contacts-ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .footer-contacts-li {
+    width: 100%;
+  }
+  .footer-news {
+    max-width: 48%;
+  }
+  .footer-links {
+    max-width: 100%;
+  }
+}
+@media only screen and (max-width: 576px) {
+  .d {
+    width: 100%;
+  }
+  .tours-main {
+    flex-direction: column;
+  }
+  .ddd {
+    width: 100%;
+  }
+  .tours {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .people-ul {
+    flex-direction: column;
+    width: 100%;
+  }
+  .people-li-description {
+    width: 85%;
+  }
+  .gallery-title {
+    top: 30px;
+    font-size: 20px;
+  }
+  .gallery-p {
+    top: 80px;
+    width: 80%;
+  }
+  .gallery-button {
+    top: 160px;
+    font-size: 13px;
+    padding: 10px 20px 10px 20px;
+  }
+  .imagessss,
+  .imagesssss {
+    display: none;
+  }
+  .images {
+    width: 47%;
+  }
+  .footer-title {
+    text-align: center;
+    padding: 0;
+  }
+  .footer-contact {
+    max-width: 100%;
+  }
+  .footer-news {
+    max-width: 100%;
+  }
+  .footer-links {
+    max-width: 100%;
+  }
+  .footer-info {
+    flex-direction: column;
+    justify-content: center;
+    width: 90%;
+  }
+
+  .ccc {
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-info-ul {
+    width: 100%;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+  .footer-info-policy {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .r {
+    width: 90%;
+  }
+  .n {
+    padding: 10px 20px 10px 20px;
+  }
+  .k {
+    padding: 10px 20px 10px 20px;
+  }
+
+  .g {
+    font-size: 16px;
+  }
+  .gallery-title {
+    top: 15px;
+    font-size: 15px;
+  }
+  .gallery-p {
+    top: 40px;
+    font-size: 13px;
+  }
+  .gallery-button {
+    top: 120px;
+    padding: 10px 15px 10px 15px;
+  }
+  .qwe {
+    font-size: 13px;
+  }
+  .footer-links-ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .ll {
+    flex-direction: column;
+  }
+  .qwe {
+    width: 100%;
+    margin: 20px;
+  }
+  .gallery-title {
+    top: 0;
+    font-size: 13px;
+  }
+  .gallery-p {
+    top: 30px;
+    font-size: 8px;
+  }
+  .gallery-button {
+    top: 90px;
+  }
+  .cc {
+    padding: 0;
+  }
+}
