@@ -21,19 +21,3 @@ $(document).ready(function () {
     }
   });
 });
-
-// $(".header_burger").on("click", function () {
-//   $(".navbar-main-background").fadeToggle();
-// });
-// let btnCategories = $(".header_burger");
-// let categories = $(".navbar-main-background");
-// $(document).click(function (e) {
-//   if (
-//     !btnCategories.is(e.target) &&
-//     btnCategories.has(e.target).length === 0 &&
-//     !categories.is(e.target) &&
-//     categories.has(e.target).length === 0
-//   ) {
-//     categories.fadeOut();
-//   }
-// });
